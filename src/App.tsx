@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import RecipeTagList from "./RecipeTagList";
-import RecipeList from "./RecipeList";
+import RecipeTagList from "./RecipeTagList.tsx";
+import RecipeList from "./RecipeList.tsx";
 
 interface IRecipe {
   id: number;
